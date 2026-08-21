@@ -42,14 +42,14 @@ print(bool(b))'''
 print(a)
 print((type(a)))'''
 
-#a = 'Shyaam laudelaal'
-#b = "Shyaam laudelaal"
-#c = '''rudra betichod
+#a = 'Shyaam'
+#b = "Shyaam"
+#c = '''rudra
+#is an 
+#athelete'''
+#d = """Shyaam 
 #is a 
-#big boob'''
-#d = """Shyaam laudelaal 
-#is a 
-#big boob"""'''
+#bigger athelete"""
 
 '''x = [10, 20, 100, 40, 15]
 y = bytes(x)
@@ -105,4 +105,4 @@ n = str(a)
 print(n)
 print(type(n))'''
 
-print("hello world")
+'''print("hello world")'''
