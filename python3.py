@@ -32,5 +32,3 @@ z=90
 w=100
 s= ((x if x<w else w) if x<y else (y if y<w else w)) if x<y else ((y if y<w else w) if y<z else (z if z<w else w))
 print(s)'''
-
-
