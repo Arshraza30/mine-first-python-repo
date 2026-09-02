@@ -38,6 +38,7 @@ print(c)
 c=("" or 5)
 print(c)'''
 
+#not operator gives answers to bolean
 '''a=(not 24)
 print(a)
 print(not "")
@@ -74,4 +75,32 @@ print(id(b))'''
 '''name=input("Enter Name: ")
 print("Your registered name:",name)'''
 
+'''a=input("Enter no.1: ")
+b=input("Enter no.2: ")
+c=int(a)+int(b)
+print(c)'''
+
+'''a=input("Enter no.1: ")
+b=input("Enter no.2: ")
+c=float(a)+float(b)
+print(c)'''
+
+#eval
+'''a=eval(input("Enter Num 1 : "))
+b=eval(input("Enter Num 2 : "))
+c= a+b
+print(c)'''
+
+#command line arguments
+'''from sys import argv
+a=eval(argv[1])
+b=eval(argv[2])
+c= a+b
+print(c)
+print(type(c))'''
+
+'''a=10
+b=20
+c=a< b + a and b + a or b * 3
+print(c)'''
 
