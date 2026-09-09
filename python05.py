@@ -18,5 +18,6 @@ l1=["Ruby", "Python", "Java","c++"]
 l2=[1,2,3,4.5]
 output = print("yes")if "Python" in str1 else print ("no")
 output = print("yes")if "Python" in l1 else print ("no")
-output = print("yes")if 3 in l2 else print("no")'''
-
+output = print("yes")if 3 in l2 else print("no")
+print(output)'''
+#inky
