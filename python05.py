@@ -20,4 +20,3 @@ output = print("yes")if "Python" in str1 else print ("no")
 output = print("yes")if "Python" in l1 else print ("no")
 output = print("yes")if 3 in l2 else print("no")
 print(output)'''
-#inky

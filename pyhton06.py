@@ -17,3 +17,5 @@ b=a[::-1]
 print("orignal:", a )
 print("Reversed:", b)
 output = print("this is a palindrome") if a==b else print("this is not a palindrome")'''
+
+
